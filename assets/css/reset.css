@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans:wght@400;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #23272A;
+    line-height: 32px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #23272A;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
+
+p {
+    font-size: 1rem;
+}
+
+hr {
+    visibility: hidden;
+}
